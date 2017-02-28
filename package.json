@@ -1,0 +1,22 @@
+{
+  "name": "express-math-parser",
+  "version": "1.0.0",
+  "description": "Practica de evaluador de cadenas string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarOPG/express-math-parser.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Edgar Peinado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdgarOPG/express-math-parser/issues"
+  },
+  "homepage": "https://github.com/EdgarOPG/express-math-parser#readme"
+}
